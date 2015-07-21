@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="start">Start</string>
+    <string name="prompt">User</string>
+    <string name="latitude"></string>
+    <string name="longitude"></string>
+    <string name="name">Name</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_data">ShowData</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
